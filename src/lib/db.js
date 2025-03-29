@@ -8,9 +8,9 @@
         dateOfIssue: today, // Use today's date
         grades: [
         { title: "Nail Extension", grade: "A", level: "Expert" },
-        { title: "Makeup", grade: "A+", level: "Expert" },
+        { title: "Makeup", grade: "A", level: "Expert" },
         { title: "Hair Styling", grade: "A", level: "Advanced" },
-        { title: "Skin Treatments", grade: "B+", level: "Intermediate" },
+        { title: "Skin Treatments", grade: "A+", level: "Intermediate" },
       ],
     },
     "2": {
@@ -20,9 +20,9 @@
         dateOfIssue: today, // Use today's date
         grades: [
             { title: "Nail Extension", grade: "A", level: "Expert" },
-            { title: "Makeup", grade: "A+", level: "Expert" },
+            { title: "Makeup", grade: "A", level: "Expert" },
             { title: "Hair Styling", grade: "A", level: "Advanced" },
-            { title: "Skin Treatments", grade: "B+", level: "Intermediate" },
+            { title: "Skin Treatments", grade: "A+", level: "Intermediate" },
       ],
     },
     // "3": {
