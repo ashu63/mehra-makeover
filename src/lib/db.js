@@ -25,6 +25,32 @@
             { title: "Skin Treatments", grade: "A+", level: "Intermediate" },
       ],
     },
+    "3": {
+      studentName: "Sania",
+      fatherName: "Ruby Mahant",
+      courseName: "Advance diploma in aesthetic & hair desinging",
+      certificateType: "internship", // Added certificate type
+      internshipDuration: "4 months", // Duration of internship
+      dateOfIssue: today, // Use today's date
+      grades: [
+          { title: "Nail Extension", grade: "A", level: "Expert" },
+          { title: "Makeup", grade: "A", level: "Expert" },
+          { title: "Hair Styling", grade: "A", level: "Advanced" },
+          { title: "Skin Treatments", grade: "A+", level: "Intermediate" },
+    ],
+  },
+  "4": {
+    studentName: "Anshika Thakur",
+    fatherName: "Rachna Devi",
+    courseName: "Advance diploma in aesthetic & hair desinging",
+    dateOfIssue: today, // Use today's date
+    grades: [
+        { title: "Nail Extension", grade: "A", level: "Expert" },
+        { title: "Makeup", grade: "A", level: "Expert" },
+        { title: "Hair Styling", grade: "A", level: "Advanced" },
+        { title: "Skin Treatments", grade: "A", level: "Intermediate" },
+  ],
+},
     // "3": {
     //   studentName: "Alex Johnson",
     //   fatherName: "Robert Johnson",
